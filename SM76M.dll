@@ -1,0 +1,13 @@
+git repo cc.dll
+
+depend on :cc.dll
+depend on :kai.dll
+download repo
+download dependencies for :cc.dll
+load log:
+
+[SETUP MAKE]
+:cc.dll(000193847decrypt)
+[END OF SETUP]
+;wallHyper-Set
+download Web
